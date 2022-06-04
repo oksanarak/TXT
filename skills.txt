@@ -1,0 +1,3 @@
+1. Basic knowledge how to work with Terminal
+2. Basic knowledge how to work with GitHub
+
