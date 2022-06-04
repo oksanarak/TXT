@@ -1,1 +1,6 @@
-
+Summary: Clicking on the link will close the app
+Type: Bug
+Environment: iPhone 11 iOS 15.5
+Priority: High
+Severity: Block
+Reporter: Oksana Rak
