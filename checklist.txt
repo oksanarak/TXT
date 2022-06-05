@@ -1,0 +1,19 @@
+1. Registration:
+ -Email
+ -social network
+ -field validation
+
+2. Authorization:
+ -user activated
+ -user is not activated
+ -password recovery
+ -field validation
+
+3. Profile:
+ -name change
+ -Email change
+ -change Password
+ -field validation
+ -subscription
+ -account deleting
+
