@@ -1,0 +1,6 @@
+Summary: Image does not open when clicking on the icon on the catalog page
+Type: Bug
+Environment: Windows 10
+Priority: Medium
+Severity: Major
+Reporter: Oksana Rak
